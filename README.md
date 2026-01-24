@@ -1,4 +1,4 @@
-# Just Chill
+# Jaiv Patel
 
 Software Developer | Backend & Full Stack Development
 
@@ -37,9 +37,9 @@ Please review my repositories for project details and source code.
 ---
 
 ## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaivPatel07&show_icons=true&hide_title=true)
 
 ---
 
 ## Contact
-Email: your-email@example.com
+jaivpatel402@gmail.com
