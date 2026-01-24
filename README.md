@@ -1,17 +1,36 @@
-# Jaiv Patel
+<h1 align="center">Jaiv Patel</h1>
 
-Software Developer | Backend & Full Stack Development
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Header Animation"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=30&lines=Backend+%26+Full+Stack+Learner;Python+%7C+Java+%7C+JavaScript;Flask+%7C+Node.js+Developer;Learning+by+Building+Projects" 
+      alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+## 🚀 About Me
+- Interested in backend and full stack development  
+- Like working with databases and REST APIs  
+- Building projects to strengthen real-world skills  
 
 ---
 
-## Technical Skills
+## 🛠 Tech Stack
 
-**Programming Languages**
+**Languages**
 - Python
 - Java
 - JavaScript
 
-**Web & Backend Frameworks**
+**Frameworks & Tools**
 - Flask
 - Node.js
 - Bootstrap
@@ -20,26 +39,30 @@ Software Developer | Backend & Full Stack Development
 - PostgreSQL
 - MySQL
 
-**Tools & Concepts**
+**Other**
 - Git
-- RESTful APIs
-- Database Design
+- REST APIs
 
 ---
 
-## Projects
-- Backend and full stack web applications
-- Java applications with database integration
-- REST API development using Flask and Node.js
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
-Please review my repositories for project details and source code.
+## 📊 GitHub Stats
 
----
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaivPatel07&theme=github_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaivPatel07&theme=github_dark" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaivPatel07&theme=github_dark" height="180em" />
+</div>
 
-## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaivPatel07&show_icons=true&hide_title=true)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
----
+## 📈 Activity Graph
 
-## Contact
-jaivpatel402@gmail.com
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaivPatel07&theme=github-compact" />
+</p>
