@@ -1,4 +1,4 @@
-<h1 align="center">Jaiv Patel</h1>
+<h1>Jaiv Patel</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
