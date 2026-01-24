@@ -49,7 +49,6 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaivPatel07&theme=github_dark" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaivPatel07&theme=github_dark" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaivPatel07&theme=github_dark" height="180em" />
 </div>
 
 <p align="center">
