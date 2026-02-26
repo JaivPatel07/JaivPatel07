@@ -1,11 +1,5 @@
 # 🚀 Jaiv Patel
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=30&lines=Backend+%26+Full+Stack+Learner;Python+%7C+Java+%7C+JavaScript;Flask+%7C+Node.js+Developer;Django+Developer+%F0%9F%94%A5;Learning+by+Building+Projects" 
-    alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
