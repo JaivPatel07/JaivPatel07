@@ -1,6 +1,6 @@
 <div align="center">
 
-### Backend & Full Stack Developer · Building things that scale
+## Backend & Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+%26+Full+Stack+Developer;Django+%7C+Flask+%7C+Node.js;Currently+mastering+System+Design+%2B+Databases;Always+learning%2C+always+building+%F0%9F%9A%80)](https://github.com/JaivPatel07)
 
