@@ -2,8 +2,6 @@
 
 # Hi, I'm Jaiv Patel
 
-### Backend Engineer | Full Stack Developer
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%7C+Full+Stack+Developer;Building+Scalable+Systems;Node.js+%7C+Python+%7C+Java;System+Design+Enthusiast;Fast+Learner+%7C+Self+Learner" />
 
 </div>
