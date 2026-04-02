@@ -30,8 +30,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JaivPatel07&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaivPatel07&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaivPatel07&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaivPatel07&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -68,7 +69,7 @@
   <img src="https://img.shields.io/badge/GitHub-JaivPatel07-181717?style=for-the-badge&logo=github" />
 </a>
 
- <a href="www.linkedin.com/in/jaiv-patel-52040b308">
+ <a href="https://www.linkedin.com/in/jaiv-patel-52040b308">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a> 
 
