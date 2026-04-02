@@ -68,10 +68,9 @@
   <img src="https://img.shields.io/badge/GitHub-JaivPatel07-181717?style=for-the-badge&logo=github" />
 </a>
 
-<!-- Add LinkedIn -->
-<!-- <a href="YOUR_LINKEDIN">
+ <a href="www.linkedin.com/in/jaiv-patel-52040b308">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a> -->
+</a> 
 
 </div>
 
