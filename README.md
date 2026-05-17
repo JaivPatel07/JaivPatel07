@@ -2,35 +2,49 @@
 
 # Hi, I'm Jaiv Patel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%7C+Full+Stack+Developer;Building+Scalable+Systems;Node.js+%7C+Python+%7C+Java;System+Design+Enthusiast;Fast+Learner+%7C+Self+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+%26+Full-Stack+Developer;Python+%7C+React+%7C+Node.js+Developer;Building+AI-powered+Web+Applications;Backend+Development+%7C+REST+APIs;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-- Backend-focused developer with strong interest in scalable systems and clean architecture  
-- Building real-world full-stack applications  
-- Strong foundation in DSA, OOP, and problem-solving  
-- Focused on performance, APIs, and database optimization  
-- Self-learner  
+Computer Science Undergraduate (Semester 4) with interests in Machine Learning, Backend Development, and Full-Stack Development.
 
----
+Building real-world projects using Python, React, Node.js, Django, and Flask while improving problem-solving, DSA, and software development skills.
 
-## Tech Stack
+Currently exploring Machine Learning and scalable backend systems through hands-on projects and continuous learning.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,angular,postgres,mongodb,git,github" />
-</p>
+Interested in REST APIs, databases, and AI-integrated applications.
 
 ---
 
-## Activity
+# Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JaivPatel07&theme=github-dark&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,django,flask,mongodb,postgres,mysql,html,css,bootstrap,git,github,vscode" />
+
+</div>
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaivPatel07&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JaivPatel07&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+# Activity Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaivPatel07&theme=github-compact&hide_border=true" />
 
@@ -38,18 +52,21 @@
 
 ---
 
-## Focus Areas
+# Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scalable%20Systems-green?style=for-the-badge" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend%20Development-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-6DB33F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-8A2BE2?style=for-the-badge" />
+
+</div>
 
 ---
 
-## Connect
+# Connect With Me
 
 <div align="center">
 
@@ -57,14 +74,16 @@
   <img src="https://img.shields.io/badge/GitHub-JaivPatel07-181717?style=for-the-badge&logo=github" />
 </a>
 
- <a href="https://www.linkedin.com/in/jaiv-patel-52040b308">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a> 
+<a href="https://www.linkedin.com/in/jaiv-patel-52040b308">
+  <img src="https://img.shields.io/badge/LinkedIn-Jaiv%20Patel-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaivPatel07&color=58A6FF&style=flat-square&label=Profile+Views" />
+
+<img src="https://komarev.com/ghpvc/?username=JaivPatel07&color=58A6FF&style=for-the-badge&label=Profile+Views" />
+
 </div>
