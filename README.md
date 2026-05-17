@@ -34,11 +34,10 @@ Interested in REST APIs, databases, and AI-integrated applications.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaivPatel07&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JaivPatel07&theme=github-dark&hide_border=true" />
 
-</div>
+<img height="170" src="https://streak-stats.demolab.com?user=JaivPatel07&theme=github-dark&hide_border=true" />
+
 
 ---
 
