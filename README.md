@@ -35,8 +35,7 @@ Interested in REST APIs, databases, and AI-integrated applications.
 <div align="center">
 
 
-![CommitPulse](https://commitpulse.vercel.app/api/streak?user=JaivPatel07)
-<img height="170" src="https://streak-stats.demolab.com?user=JaivPatel07&theme=github-dark&hide_border=true" />
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=JaivPatel07)
 
 
 ---
