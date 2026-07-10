@@ -35,7 +35,7 @@ Interested in REST APIs, databases, and AI-integrated applications.
 <div align="center">
 
 
-![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=JaivPatel07)
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=JaivPatel07&theme=midnightneon)
 
 
 ---
