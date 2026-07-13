@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi,I'm Jaiv Patel
+# Hi,I'm  Jaiv Patel
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+%26+Full-Stack+Developer;Python+%7C+React+%7C+Node.js+Developer;Building+AI-powered+Web+Applications;Backend+Development+%7C+REST+APIs;Always+Learning+New+Technologies" />
 
