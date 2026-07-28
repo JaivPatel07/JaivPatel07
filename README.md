@@ -3,8 +3,11 @@
 
 # Hi,I'm  Jaiv Patel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+%26+Full-Stack+Developer;Python+%7C+React+%7C+Node.js+Developer;Building+AI-powered+Web+Applications;Backend+Development+%7C+REST+APIs;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Machine+Learning+%7C+Full-Stack+Developer;Python+%7C+React+%7C+Node.js+Developer;Building+AI-powered+Web+Applications;Backend+Development+%7C+REST+APIs;Always+Learning+Something+New" />
 
+<img src="https://komarev.com/ghpvc/?username=JaivPatel07&style=for-the-badge&color=58A6FF&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/JaivPatel07?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/JaivPatel07?style=for-the-badge" />
 </div>
 
 # About Me
@@ -84,3 +87,5 @@ Interested in REST APIs, databases, and AI-integrated applications.
 <img src="https://komarev.com/ghpvc/?username=JaivPatel07&color=58A6FF&style=for-the-badge&label=Profile+Views" />
 
 </div>
+
+![](https://github-profile-trophy.vercel.app/?username=JaivPatel07&theme=tokyonight&no-frame=true&margin-w=10)
