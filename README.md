@@ -7,7 +7,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=JaivPatel07&style=for-the-badge&color=58A6FF&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/JaivPatel07?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/JaivPatel07?style=for-the-badge" />
 </div>
 
 # About Me
