@@ -48,7 +48,6 @@ Interested in REST APIs, databases, and AI-integrated applications.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaivPatel07&theme=github-compact&hide_border=true" />
 
 </div>
-
 ---
 
 # Current Focus
