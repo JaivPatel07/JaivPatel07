@@ -2,7 +2,6 @@
 
 
 # Hi,I'm Jaiv Patel
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Machine+Learning+%7C+Full-Stack+Developer;Python+%7C+React+%7C+Node.js+Developer;Building+AI-powered+Web+Applications;Backend+Development+%7C+REST+APIs;Always+Learning+Something+New" />
 
 <img src="https://komarev.com/ghpvc/?username=JaivPatel07&style=for-the-badge&color=58A6FF&label=Profile+Views" />
