@@ -10,7 +10,7 @@
 
 # About Me
 
-Computer Science Undergraduate (Semester 4) with interests in Machine Learning, Backend Development, and Full-Stack Development.
+Computer Science Undergraduate (Semester 5) with interests in Machine Learning, Backend Development, and Full-Stack Development.
 
 Building real-world projects using Python, React, Node.js, Django, and Flask while improving problem-solving, DSA, and software development skills.
 
@@ -24,7 +24,7 @@ Interested in REST APIs, databases, and AI-integrated applications.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,django,flask,mongodb,postgres,mysql,html,css,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,django,fastapi,html,css,tailwind,bootstrap,postgres,mysql,mongodb,redis,git,github,linux,aws,firebase,vscode" />
 
 </div>
 
